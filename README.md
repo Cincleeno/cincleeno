@@ -16,8 +16,6 @@
 
 <p><img src="https://activity-graph.herokuapp.com/graph?username=cincleeno"><p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabarai&show_icons=true&locale=en&layout=compact" alt="cincleeno" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cincleeno&show_icons=true&locale=en" alt="cincleeno" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cincleeno&" alt="cincleeno" /></p>
